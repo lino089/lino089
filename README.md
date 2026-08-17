@@ -9,7 +9,7 @@
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=lino089\&theme=dark\&ring=FFA500\&fire=FFA500\&currStreakNum=FFFFFF\&sideNums=FFFFFF\&currStreakLabel=FFA500\&sideLabels=FFFFFF\&dates=AAAAAA)](https://github.com/DenverCoder1/github-readme-streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=lino089\&theme=dark\&ring=F59E0B\&fire=F59E0B\&currStreakLabel=F59E0B\&sideLabels=FFFFFF\&dates=9CA3AF)
 
 ---
 
